@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "781471899858",
+    "firebase_url": "https://dotstl-7a9fd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dotstl-7a9fd",
+    "storage_bucket": "dotstl-7a9fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781471899858:android:06ec111bd4d8fea05a0d0b",
+        "android_client_info": {
+          "package_name": "com.dotstl.juancuervas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781471899858-1lnqg44i3oc41t64mob1ckin74o3687v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_TL5WNj23_Cibt3p6YW0kHkT0RfVkz1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781471899858-1lnqg44i3oc41t64mob1ckin74o3687v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781471899858:android:79ac4ebdb12139285a0d0b",
+        "android_client_info": {
+          "package_name": "com.juancuervas.dotstl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781471899858-1lnqg44i3oc41t64mob1ckin74o3687v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_TL5WNj23_Cibt3p6YW0kHkT0RfVkz1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781471899858-1lnqg44i3oc41t64mob1ckin74o3687v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
